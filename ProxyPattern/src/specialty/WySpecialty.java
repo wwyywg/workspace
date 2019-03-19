@@ -1,4 +1,4 @@
-package specialty;
+锘縫ackage specialty;
 
 import java.awt.GridLayout;
 
@@ -11,7 +11,7 @@ public class WySpecialty extends JFrame implements Specialty {
 	private static final long serialVersionUID = 1L;
 	
 	public WySpecialty() {
-		super("韶关代理婺源特产测试");
+		super("闊跺叧浠ｇ悊濠烘簮鐗逛骇娴嬭瘯");
 		this.setLayout(new GridLayout(1, 1));
 		JLabel l1 = new JLabel(new ImageIcon("src/proxy/WuyuanSpecialty.jpg"));
 		this.add(l1);

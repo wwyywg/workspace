@@ -1,4 +1,4 @@
-package specialty;
+﻿package specialty;
 
 public interface Specialty {
 

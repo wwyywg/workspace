@@ -1,4 +1,4 @@
-package specialty;
+ï»¿package specialty;
 
 public class SgProxy implements Specialty {
 	
@@ -12,10 +12,10 @@ public class SgProxy implements Specialty {
 	}
 	
 	public void preRequest() {
-          System.out.println("ÉØ¹Ø´úÀíæÄÔ´ÌØ²ú¿ªÊ¼¡£");
+          System.out.println("éŸ¶å…³ä»£ç†å©ºæºç‰¹äº§å¼€å§‹ã€‚");
     }
     public void postRequest() {
-          System.out.println("ÉØ¹Ø´úÀíæÄÔ´ÌØ²ú½áÊø¡£");
+          System.out.println("éŸ¶å…³ä»£ç†å©ºæºç‰¹äº§ç»“æŸã€‚");
     }
 
 }
