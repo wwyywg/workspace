@@ -1,4 +1,4 @@
-package classAdapter;
+package common;
 
 public class Adaptee {
 

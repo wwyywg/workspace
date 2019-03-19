@@ -1,7 +1,7 @@
 package adapter;
 
 import classAdapter.ClassAdapter;
-import classAdapter.Target;
+import common.Target;
 
 public class ClassAdapterTest {
 
